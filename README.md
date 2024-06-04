@@ -19,6 +19,7 @@ NOTE:
 ## 2024 Summer Schools
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 ------|--|---|----|--|-|-|----
+[4th Inria-DFKI European Summer School on AI (IDESSAI 2024)](IDESSAI – The Inria-DFKI European Summer School on Artificial Intelligence)|Saarbrucken, Germany|German and French AI institutes, DFKI and Inria, in coordination with RICAIP|September 9-13|no Deadline|230€||
 [Paris Generative AI summer school 2024](https://www.genai-school.universite-paris-saclay.fr/)|Paris, France|Université Paris-Saclay|October 21 - 25|June 16|€ 100 - 500|N/A|
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)|Capri, Italy|University Federico II of Napoli|Sep 23-27|Apr 20|€ 675||
 [Athens NLP (AθNLP)](https://athnlp.github.io/2024/)|Athens, Greece|[RC Athena](https://www.athena-innovation.gr/), [NCSR Demokritos](http://www.demokritos.gr/), [AUEB](https://www.dept.aueb.gr/en/cs), [Heriot-Watt University](https://www.hw.ac.uk/)|Sep 19-25|Jun 20|€ 300-500||
